@@ -70,6 +70,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="https://medium.com/@alstjs7799"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="30"/></a>
+  <a href="https://medium.com/@alstjs8452"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="30"/></a>
   <a href="https://blog.naver.com/alstjs7799"><img src="https://img.shields.io/static/v1?message=NaverBlog&logo=naver&label=&color=03C75A&logoColor=white&style=for-the-badge" height="30"/></a>
 </div>
