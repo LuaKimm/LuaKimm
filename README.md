@@ -25,7 +25,7 @@
   - 🔭 I'm currently focused on becoming a professional Frontend Developer<br>
   - 💻 Building projects with React, Next.js, and Tailwind CSS<br>
   - 🌱 Exploring UI/UX best practices and learning from real-world products<br>
-  - ✍️ Writing about what I learn on [Medium](https://medium.com/@alstjs7799) and [Naver Blog](https://blog.naver.com/alstjs7799)<br>
+  - ✍️ Writing about what I learn on [Medium](https://medium.com/@alstjs8452)) and [Naver Blog](https://blog.naver.com/alstjs7799)<br>
   - 📖 Writing technical articles to reflect on what I learn<br>
   - ✈️ Former international project manager & global communicator (KR🇰🇷 | MX🇲🇽 | US🇺🇸 | ES🇪🇸)<br>
   - ⚡ In my free time, I dive into frontend tech blogs and design systems
