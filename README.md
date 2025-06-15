@@ -1,6 +1,38 @@
-<h1 align="center">Hi 👋, I'm LuaKim</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  👋 Hi, I'm Lua from South Korea!<br><br>
+  - 🔭 I'm currently focused on becoming a professional Frontend Developer<br>
+  - 💻 Building projects with React, Next.js, and Tailwind CSS<br>
+  - 🌱 Exploring UI/UX best practices and learning from real-world products<br>
+  - ✍️ Writing about what I learn on [Medium](https://medium.com/@alstjs7799) and [Naver Blog](https://blog.naver.com/alstjs7799)<br>
+  - 📖 Writing technical articles to reflect on what I learn<br>
+  - ✈️ Former international project manager & global communicator (KR🇰🇷 | MX🇲🇽 | US🇺🇸 | ES🇪🇸)<br>
+  - ⚡ In my free time, I dive into frontend tech blogs and design systems
+</p>
+
+
+###
 
 <p align="left">
 </p>
@@ -12,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luakimm&show_icons=true&locale=en" alt="luakimm" /></p>
 
-<h3 align="left">Connect with me:</h3>
+###
