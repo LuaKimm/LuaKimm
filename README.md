@@ -18,7 +18,7 @@
   - 💻 Building projects with React, Next.js, and Tailwind CSS<br>
   - 🌱 Exploring UI/UX best practices and learning from real-world products<br>
   - ✍️ Writing about what I learn on [Medium](https://medium.com/@alstjs8452)) and [Naver Blog](https://blog.naver.com/alstjs7799)<br>
-  - If you want to learn more about the work I did in the LG U+ Ureka frontend course,[check out this Notion page](https://zealous-troodon-315.notion.site/LG-9adc2e75b7de4cb5b72c53fc771db0ca)
+  - If you want to learn more about the work I did in the LG U+ Ureka frontend course, Check out this Notion page (https://zealous-troodon-315.notion.site/LG-9adc2e75b7de4cb5b72c53fc771db0ca)
 
   - 📖 Writing technical articles to reflect on what I learn<br>
   - ✈️ Former international project manager & global communicator (KR🇰🇷 | MX🇲🇽 | US🇺🇸 | ES🇪🇸)<br>
